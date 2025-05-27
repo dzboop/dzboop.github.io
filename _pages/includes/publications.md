@@ -2,64 +2,95 @@
 
 ## Selected Publications
 
-### Multi-view Late Fusion Alignment
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2019</div><img src='images/ijcai.jpg' alt="sym" width="100%"></div></div>
+### AI4S
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Science 2025</div><img src='images/AS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Multi-view Clustering via Late Fusion Alignment Maximization](https://www.ijcai.org/Proceedings/2019/0524.pdf) <a href='https://scholar.google.com/citations?user=5o9hK3EAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwangsiwei2010%2Fwangsiwei2010.github.io@google-scholar-stats%2Fgs_data_shieldsio_paper4.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+[Integrative Multi-Omics and routine blood analysis using deep learning: cost-effective early prediction of chronic disease risks](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202412775) (Cover Article)
 
-[Code](https://github.com/wangsiwei2010/latefusionalignment)
+[Code](https://github.com/dzboop/multi-omics)
 
-**Siwei Wang**, Xinwang Liu, En Zhu, Chang Tang, Jiyuan Liu, Jingtao Hu, Jingyuan Xia, Jianping Yin
+**Zhibin Dong**, Pei Li, Yi Jiang, Zhihan Wang, Juntao Gao, Kai Guo, Xinwang Liu, En Zhu, Kunlun He.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- propose multi-view late fusion paradigm. 
 </div>
 </div>
 
-### Large-scale Anchor Representation
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP2022</div><img src='images/tip.jpg' alt="sym" width="100%"></div></div>
+### Multi-View Progressive Fusion 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/CVPR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Fast Parameter-Free Multi-View Subspace Clustering With Consensus Anchor Guidance](https://www.researchgate.net/publication/356634317_Fast_Parameter-Free_Multi-View_Subspace_Clustering_With_Consensus_Anchor_Guidance) <a href='https://scholar.google.com/citations?user=5o9hK3EAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwangsiwei2010%2Fwangsiwei2010.github.io@google-scholar-stats%2Fgs_data_shieldsio_paper1.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+[Enhanced then Progressive Fusion with View Graph for Multi-View Clustering](https://cvpr.thecvf.com/virtual/2025/poster/32636) 
 
 [Code](https://github.com/wangsiwei2010/FPMVS-CAG)
 
-**Siwei Wang**, Xinwang Liu, Xinzhong Zhu, Pei Zhang, Yi Zhang, Feng Gao, En Zhu (ESI High Cited Paper)
+**Zhibin Dong**, Meng Liu, Siwei Wang, Ke Liang, Yi Zhang, Suyuan Liu, Jiaqi Jin, Xinwang Liu, En Zhu.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- a unified multi-view co-training style of anchors. 
 </div>
 </div>
 
 
-### Large-scale Anchor Alignment
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/neurips.jpg' alt="sym" width="100%"></div></div>
+### Selective Cross-view Topology
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP 2025</div><img src='images/TIP1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Align then Fusion: Generalized Large-scale Multi-view Clustering with Anchor Matching Correspondences](https://proceedings.neurips.cc/paper_files/paper/2022/file/270339c997293ca2988c62f4308e389f-Paper-Conference.pdf) <a href='https://scholar.google.com/citations?user=5o9hK3EAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwangsiwei2010%2Fwangsiwei2010.github.io@google-scholar-stats%2Fgs_data_shieldsio_paper2.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+[Selective Cross-view Topology for Deep Incomplete Multi-view Clustering](https://proceedings.neurips.cc/paper_files/paper/2022/file/270339c997293ca2988c62f4308e389f-Paper-Conference.pdf) 
 
 [Code](https://github.com/wangsiwei2010/NeurIPS22-FMVACC)
 
-**Siwei Wang**, Xinwang Liu, Suyuan Liu, Jiaqi Jin, Wenxuan Tu, Xinzhong Zhu, En Zhu
+**Zhibin Dong**, Dayu Hu, Siwei Wang, Jiaqi Jin, Xinwang Liu, En Zhu.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- the first work to tackle multi-view anchor-unaligned problem. 
 </div>
 </div>
 
-### Large-scale Anchor for Incomplete Scenerios 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/cvpr.jpg' alt="sym" width="100%"></div></div>
+### Consistent and Complementary Information 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/iccv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Highly-efficient Incomplete Large-scale Multi-view Clustering with Consensus Bipartite Graph](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Highly-Efficient_Incomplete_Large-Scale_Multi-View_Clustering_With_Consensus_Bipartite_Graph_CVPR_2022_paper.pdf) <a href='https://scholar.google.com/citations?user=5o9hK3EAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwangsiwei2010%2Fwangsiwei2010.github.io@google-scholar-stats%2Fgs_data_shieldsio_paper3.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+[Cross-view Topology Based Consistent and Complementary Information for Deep Multi-view Clustering](https://openaccess.thecvf.com/content/ICCV2023/papers/Dong_Cross-view_Topology_Based_Consistent_and_Complementary_Information_for_Deep_Multi-view_ICCV_2023_paper.pdf) 
+
+[Code](https://github.com/dzboop/CTCC)
+
+**Zhibin Dong**, Siwei Wang, Jiaqi Jin, Xinwang Liu, En Zhu.
+
+</div>
+</div>
+
+### Single-Cell Multiview Fuzzy Clustering 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TFS 2024</div><img src='images/tfs1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[High-order Topology for Deep Single-Cell Multiview Fuzzy Clustering](https://ieeexplore.ieee.org/document/10529589/) 
 
 [Code](https://github.com/wangsiwei2010/CVPR22-IMVC-CBG)
 
-**Siwei Wang**, Xinwang Liu, Li Liu, Wenxuan Tu, Xinzhong Zhu, Jiyuan Liu, Sihang Zhou, En Zhu
+Dayu Hu, **Zhibin Dong(Co-first author)**, Ke Liang, Siwei Wang, Xinwang Liu.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- the first large-scale multi-view anchor framework for incomplete scenerios. 
+</div>
+</div>
+
+### Incomplete Multiview Data Clustering 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2024</div><img src='images/tnnls2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Subgraph Propagation and Contrastive Calibration for Incomplete Multiview Data Clustering](https://ieeexplore.ieee.org/document/10405858) 
+
+[Code](https://github.com/dzboop/SPCC)
+
+**Zhibin Dong**, Jiaqi Jin, Siwei Wang, Xinwang Liu, En Zhu.
+
+</div>
+</div>
+
+### Deep Structural Graph Contrast Clustering
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2023</div><img src='images/tnnls1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Iterative Deep Structural Graph Contrast Clustering for Multiview Raw Data](https://ieeexplore.ieee.org/document/10260686) 
+
+[Code](https://github.com/dzboop/IDSGCC)
+
+**Zhibin Dong**, Jiaqi Jin, Siwei Wang, Xinwang Liu, En Zhu.
+
 </div>
 </div>
 
