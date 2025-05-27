@@ -1,5 +1,6 @@
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 One paper is accepted in TIP25(CCF-A). 
+- *2025.05*: &nbsp;🎉🎉 One paper is accepted in TIP25(CCF-A).
+- *2025.05*: &nbsp;🎉🎉 One paper is accepted in ICML25(CCF-A). 
 - *2025.02*: &nbsp;🎉🎉 Three papers is accepted in [CVPR25](https://cvpr.thecvf.com/)(CCF-A). 
 - *2025.02*: &nbsp;🎉🎉 accept to serve as reviewer for ACM MM 2025 and NeurIPS2025(CCF-A). 
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted in Advance Science(Cover Article).
