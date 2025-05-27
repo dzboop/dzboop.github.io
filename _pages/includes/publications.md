@@ -16,7 +16,7 @@
 </div>
 
 ### Multi-View Progressive Fusion 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/CVPR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025(CCF-A)</div><img src='images/CVPR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Enhanced then Progressive Fusion with View Graph for Multi-View Clustering](https://cvpr.thecvf.com/virtual/2025/poster/32636) 
@@ -30,7 +30,7 @@
 
 
 ### Selective Cross-view Topology
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP 2025</div><img src='images/TIP1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP 2025(CCF-A)</div><img src='images/TIP1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Selective Cross-view Topology for Deep Incomplete Multi-view Clustering](https://proceedings.neurips.cc/paper_files/paper/2022/file/270339c997293ca2988c62f4308e389f-Paper-Conference.pdf) 
@@ -43,7 +43,7 @@
 </div>
 
 ### Consistent and Complementary Information 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/iccv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023(CCF-A)</div><img src='images/iccv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Cross-view Topology Based Consistent and Complementary Information for Deep Multi-view Clustering](https://openaccess.thecvf.com/content/ICCV2023/papers/Dong_Cross-view_Topology_Based_Consistent_and_Complementary_Information_for_Deep_Multi-view_ICCV_2023_paper.pdf) 
@@ -56,7 +56,7 @@
 </div>
 
 ### Single-Cell Multiview Fuzzy Clustering 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TFS 2024</div><img src='images/tfs1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TFS 2024(SCI Q1)</div><img src='images/tfs1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [High-order Topology for Deep Single-Cell Multiview Fuzzy Clustering](https://ieeexplore.ieee.org/document/10529589/) 
@@ -69,7 +69,7 @@ Dayu Hu, **Zhibin Dong(Co-first author)**, Ke Liang, Siwei Wang, Xinwang Liu.
 </div>
 
 ### Incomplete Multiview Data Clustering 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2024</div><img src='images/tnnls2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2024(SCI Q1)</div><img src='images/tnnls2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Subgraph Propagation and Contrastive Calibration for Incomplete Multiview Data Clustering](https://ieeexplore.ieee.org/document/10405858) 
@@ -82,7 +82,7 @@ Dayu Hu, **Zhibin Dong(Co-first author)**, Ke Liang, Siwei Wang, Xinwang Liu.
 </div>
 
 ### Deep Structural Graph Contrast Clustering
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2023</div><img src='images/tnnls1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2023(SCI Q1)</div><img src='images/tnnls1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Iterative Deep Structural Graph Contrast Clustering for Multiview Raw Data](https://ieeexplore.ieee.org/document/10260686) 
