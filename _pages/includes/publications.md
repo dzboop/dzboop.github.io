@@ -3,7 +3,7 @@
 ## Selected Publications
 
 ### AI4S
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Science 2025</div><img src='images/AS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Science 2025(Cover Article)</div><img src='images/AS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Integrative Multi-Omics and routine blood analysis using deep learning: cost-effective early prediction of chronic disease risks](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202412775) (Cover Article)
