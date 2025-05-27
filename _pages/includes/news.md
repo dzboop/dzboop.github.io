@@ -1,22 +1,15 @@
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 accept to serve as Area Chair for ACM MM 2025 and NeurIPS2025(CCF-A). 
-- *2025.01*: &nbsp;🎉🎉 one paper is accepted in TKDE.
-- *2024.12*: &nbsp;🎉🎉 accept to serve as Area Chair for [ICML25](https://icml.cc/)(CCF-A). 
-- *2024.11*: &nbsp;🎉🎉 honor to serve as AE for [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)(CCF-B). 
-- *2024.09*: &nbsp;🎉🎉 will be an AC for Valse. 
-- *2024.09*: &nbsp;🎉🎉 Two corresponding papers are accepted in [NeurIPS24](https://neurips.cc/Conferences/2024)(CCF-A). 
-- *2024.08*: &nbsp;🎉🎉 accept to serve as Area Chair for [ICLR25](https://iclr.cc/Conferences/2025).
+- *2025.05*: &nbsp;🎉🎉 one paper is accepted in [TIP25](CCF-A). 
+- *2025.02*: &nbsp;🎉🎉 Three papers is accepted in [CVPR25](https://cvpr.thecvf.com/)(CCF-A). 
+- *2025.02*: &nbsp;🎉🎉 accept to serve as reviewer for ACM MM 2025 and NeurIPS2025(CCF-A). 
+- *2025.01*: &nbsp;🎉🎉 one paper is accepted in Advance Science.
+- *2024.12*: &nbsp;🎉🎉 accept to serve as reviewer for [ICML25](https://icml.cc/)(CCF-A). 
+- *2024.09*: &nbsp;🎉🎉 One papers are accepted in [NeurIPS24](https://neurips.cc/Conferences/2024)(CCF-A). 
+- *2024.08*: &nbsp;🎉🎉 accept to serve as reviewer for [ICLR25](https://iclr.cc/Conferences/2025).
 - *2024.06*: &nbsp;🎉🎉 Two corresponding papers are accepted in [ACM MM24](https://2024.acmmm.org/)(CCF-A). 
-- *2024.06*: &nbsp;🎉🎉 continue to serve as SPC for [AAAI25](https://aaai.org/conference/aaai/aaai-25/)(CCF-A). 
-- *2024.05*: &nbsp;🎉🎉 two papers about incomplete MVC and continual learning are accepted in ICML24(CCF-A) （<font color="red"> One corresponding: Spotlight (121/9473, top 3.5%)</font> ）. 
-- *2024.03*: &nbsp;🎉🎉 accept to serve as Area Chair for [NeurIPS24](https://neurips.cc/Conferences/2024)(CCF-A). 
-- *2024.03*: &nbsp;🎉🎉 one paper is accepted in [CVPR24](https://cvpr.thecvf.com/Conferences/2024)(CCF-A). 
-- *2024.02*: &nbsp;🎉🎉 accept to serve as Area Chair for [ACM MM24](https://2024.acmmm.org/)(CCF-A). 
-- *2024.01*: &nbsp;🎉🎉 one paper is accepted in [ICLR24](https://iclr.cc/Conferences/2024). 
-
-
-<details>
-  <summary>More</summary>
- - *2023.12*: &nbsp;🎉🎉 four papers have been accepted in AAAI24. 
- 
-</details>
+- *2024.06*: &nbsp;🎉🎉 continue to serve as reviewer for [AAAI25](https://aaai.org/conference/aaai/aaai-25/)(CCF-A). 
+- *2024.01*: &nbsp;🎉🎉 one paper is accepted in [TNNLS24](CCF-B).. 
+- *2023.08*: &nbsp;🎉🎉 one paper is accepted in [TNNLS23](CCF-B). 
+- *2023.07*: &nbsp;🎉🎉 one paper is accepted in [ICCV23](https://iccv2023.thecvf.com/)(CCF-A). 
+- *2023.02*: &nbsp;🎉🎉 accept to serve as reviewer for [ACM MM23](https://2023.acmmm.org/)(CCF-A). 
+- *2022.07*: &nbsp;🎉🎉 one paper is accepted in [ACM MM22](https://2022.acmmm.org/)(CCF-A). 
