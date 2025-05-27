@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Siwei Wang (王思为)"
-description              : "Assistant Professor in Intelligent Game and Decision Lab. Focusing on unsupervised learning, multi-modal fusion and LLM-based Agents."
-repository               : "wangsiwei2010/wangsiwei2010.github.io"
+title                    : "Zhibin Dong (董智斌)"
+description              : "PHD in NUDT."
+repository               : "dzboop/dongzhibin2020.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Siwei Wang"
-  avatar           : "images/siweiWang.jpg"
-  bio              : "Academy of Military Sciences"
-  location         : "Beijing, China"
+  name             : "Zhibin Dong"
+  avatar           : "images/dongzhibin.jpg"
+  bio              : "AI4S"
+  location         : "Changsha, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=5o9hK3EAAAAJ"
-  email            : "wangsiwei13@nudt.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Siwei-Wang-22"
+  googlescholar    : ""
+  email            : "dzb20@nudt.edu.cn"
+  researchgate     : ""
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wangsiwei2010"
+  github           : "dzboop"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : "https://dblp.uni-trier.de/pid/51/8279-1.html"
-  orcid            : "https://orcid.org/0000-0001-9517-262X"
+  dblp             : "https://dblp.org/pid/227/6683.html"
+  orcid            : "https://orcid.org/0000-0001-7829-4924"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
