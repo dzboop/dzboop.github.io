@@ -94,6 +94,18 @@ Dayu Hu, **Zhibin Dong(Co-first author)**, Ke Liang, Siwei Wang, Xinwang Liu.
 </div>
 </div>
 
+
+- [From Spectrum-free towards Baseline-view-free: Double-track Proximity Driven Multi-view Clustering](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:j3f4tGmQtD8C), Shengju Yu, **Zhibin Dong**,  Siwei Wang, Xinwang Liu, En Zhu, **ICML 2025**
+
+- [EASEMVC:Efficient Dual Selection Mechanism for Deep Multi-View Clustering](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:j3f4tGmQtD8C), Baili Xiao, **Zhibin Dong**,  Siwei Wang, Xinwang Liu, En Zhu, **CVPR 2025**
+
+- [Imputation-free and Alignment-free: Incomplete Multi-view Clustering Driven by Consensus Semantic Learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:j3f4tGmQtD8C), Yuzhuo Dai, Jiaqi Jin, **Zhibin Dong**,  Siwei Wang, Xinwang Liu, En Zhu, **CVPR 2025**
+
+  
+- [Simple yet Effective Incomplete Multi-view Clustering: Similarity-level Imputation and Intra-view Hybrid-group Prototype Construction](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:j3f4tGmQtD8C), Shengju Yu, **Zhibin Dong**,  Siwei Wang, Xinwang Liu, En Zhu, **ICLR 2025**
+
+- [DLEFT-MKC: Dynamic Late Fusion Multiple Kernel Clustering with Robust Tensor Learning via Min-Max Optimizaiton](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:j3f4tGmQtD8C), Yi Zhang,  Siwei Wang, Jiyuan Liu, **Zhibin Dong**,  Xinwang Liu, En Zhu, **ICLR 2025**
+ 
 - [A Non-parametric Graph Clustering Framework for Multi-View Data](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:pqnbT2bcN3wC), Shengju Yu, Siwei Wang, **Zhibin Dong**, Wenxuan Tu, Suyuan Liu, Zhao Lv, Pan Li, Miao Wang, En Zhu, **AAAI 2024**
 
 - [Deep incomplete multi-view clustering with cross-view partial sample and prototype alignment](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:j3f4tGmQtD8C), Jiaqi Jin, Siwei Wang, **Zhibin Dong**, Xinwang Liu, En Zhu, **CVPR 2023**
@@ -101,10 +113,6 @@ Dayu Hu, **Zhibin Dong(Co-first author)**, Ke Liang, Siwei Wang, Xinwang Liu.
 - [Graph anomaly detection via multi-scale contrastive learning networks with augmented view](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:mB3voiENLucC), Jingcan Duan, Siwei Wang, Pei Zhang, En Zhu, Jingtao Hu, Hu Jin, Yue Liu, **Zhibin Dong**, **AAAI 2023**
 
 - [Alleviate Anchor-Shift: Explore Blind Spots with Cross-View Reconstruction for Incomplete Multi-View Clustering](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:mB3voiENLucC), Suyuan Liu, Siwei Wang, Ke Liang,**Zhibin Dong**, Xinwang Liu, En Zhu, **NIPS 2024**
-
-- [EASEMVC:Efficient Dual Selection Mechanism for Deep Multi-View Clustering](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:j3f4tGmQtD8C), Baili Xiao, **Zhibin Dong**,  Siwei Wang, Xinwang Liu, En Zhu, **CVPR 2025**
-
-- [Imputation-free and Alignment-free: Incomplete Multi-view Clustering Driven by Consensus Semantic Learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:j3f4tGmQtD8C), Yuzhuo Dai, Jiaqi Jin, **Zhibin Dong**,  Siwei Wang, Xinwang Liu, En Zhu, **CVPR 2025**
 
 - [ Learn from view correlation: An anchor enhancement strategy for multi-view clustering](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:j3f4tGmQtD8C), Suyuan Liu, Siwei Wang, Ke Liang,**Zhibin Dong**, Xinwang Liu, En Zhu, **CVPR 2024**
 
