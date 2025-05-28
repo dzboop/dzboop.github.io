@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhibin Dong (董智斌)"
-description              : "PHD in NUDT."
+description              : "PHD in NUDT（国防科技大学）."
 repository               : "dzboop/dongzhibin2020.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhibin Dong"
+  name             : "Zhibin Dong（董智斌）"
   avatar           : "images/dongzhibin.jpg"
   bio              : "AI4S"
   location         : "Changsha, China"
