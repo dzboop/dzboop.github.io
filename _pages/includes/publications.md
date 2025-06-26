@@ -116,7 +116,7 @@ Dayu Hu, **Zhibin Dong(Co-first author)**, Ke Liang, Siwei Wang, Xinwang Liu.
 **IEEE Transactions on Neural Networks and Learning Systems IF:10.3**
 </div>
 </div>
-
+- [Deep Incomplete Multi-view Clustering with Distribution Dual-Consistency Recovery Guidance](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:j3f4tGmQtD8C), Jiaqi Jin, Siwei Wang, **Zhibin Dong**, Xinwang Liu, En Zhu, **ICCV 2025**
 
 - [From Spectrum-free towards Baseline-view-free: Double-track Proximity Driven Multi-view Clustering](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:j3f4tGmQtD8C), Shengju Yu, **Zhibin Dong**,  Siwei Wang, Xinwang Liu, En Zhu, **ICML 2025**
 
