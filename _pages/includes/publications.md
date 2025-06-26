@@ -12,6 +12,8 @@
 
 **Zhibin Dong**, Pei Li, Yi Jiang, Zhihan Wang, Juntao Gao, Kai Guo, Xinwang Liu, En Zhu, Kunlun He.
 
+**Advanced Science 2025**
+
 </div>
 </div>
 
@@ -24,6 +26,8 @@
 [Code](https://github.com/dzboop/multi-omics)
 
 **Zhibin Dong**, Pei Li, Yi Jiang, Zhihan Wang, Juntao Gao, Kai Guo, Xinwang Liu, En Zhu, Kunlun He.
+
+**Advanced Science 2025**
 
 </div>
 </div>
@@ -38,6 +42,7 @@
 
 **Zhibin Dong**, Meng Liu, Siwei Wang, Ke Liang, Yi Zhang, Suyuan Liu, Jiaqi Jin, Xinwang Liu, En Zhu.
 
+**IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025**
 </div>
 </div>
 
@@ -52,6 +57,7 @@
 
 **Zhibin Dong**, Dayu Hu, Siwei Wang, Jiaqi Jin, Xinwang Liu, En Zhu.
 
+**IEEE Transactions on Image Processing IF:13.7**
 </div>
 </div>
 
@@ -65,6 +71,7 @@
 
 **Zhibin Dong**, Siwei Wang, Jiaqi Jin, Xinwang Liu, En Zhu.
 
+**IEEE InternationalConference on Computer Vision 2023**
 </div>
 </div>
 
@@ -78,6 +85,7 @@
 
 Dayu Hu, **Zhibin Dong(Co-first author)**, Ke Liang, Siwei Wang, Xinwang Liu.
 
+**IEEE Transactions on Fuzzy Systems IF:11.9**
 </div>
 </div>
 
@@ -91,6 +99,7 @@ Dayu Hu, **Zhibin Dong(Co-first author)**, Ke Liang, Siwei Wang, Xinwang Liu.
 
 **Zhibin Dong**, Jiaqi Jin, Siwei Wang, Xinwang Liu, En Zhu.
 
+**IEEE Transactions on Neural Networks and Learning Systems IF:10.3**
 </div>
 </div>
 
@@ -104,6 +113,7 @@ Dayu Hu, **Zhibin Dong(Co-first author)**, Ke Liang, Siwei Wang, Xinwang Liu.
 
 **Zhibin Dong**, Jiaqi Jin, Siwei Wang, Xinwang Liu, En Zhu.
 
+**IEEE Transactions on Neural Networks and Learning Systems IF:10.3**
 </div>
 </div>
 
