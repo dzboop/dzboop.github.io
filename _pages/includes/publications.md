@@ -61,6 +61,20 @@
 </div>
 </div>
 
+### Cross-view Matching
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TKDE2026(CCF-A)</div><img src='images/TKDE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Cross-View Graph Matching for Unsupervised Learning with Unaligned Multi-view Clustering](https://cvpr.thecvf.com/virtual/2025/poster/32636) 
+
+[Code](https://github.com/wangsiwei2010/FPMVS-CAG)
+
+**Zhibin Dong**, Shengju Yu, Siwei Wang, Xinwang Liu, En Zhu.
+
+**IEEE Transactions on Knowledge and Data Engineering 2026 IF:10.4**
+</div>
+</div>
+
 ### Consistent and Complementary Information 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023(CCF-A)</div><img src='images/iccv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
