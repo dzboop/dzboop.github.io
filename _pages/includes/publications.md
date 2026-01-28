@@ -62,7 +62,7 @@
 </div>
 
 ### Cross-view Matching
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TKDE2026(CCF-A)</div><img src='images/TKDE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TKDE2026(CCF-A)</div><img src='images/TKDE.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Cross-View Graph Matching for Unsupervised Learning with Unaligned Multi-view Clustering](https://cvpr.thecvf.com/virtual/2025/poster/32636) 
