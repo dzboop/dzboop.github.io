@@ -1,4 +1,6 @@
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 One paper is accepted in IEEE TKDE(CCF-A).
+- *2025.09*: &nbsp;🎉🎉 Two paper is accepted in AAAI2026(CCF-A).
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted in ICCV25(CCF-A).
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted in TIP25(CCF-A).
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted in ICML25(CCF-A). 
