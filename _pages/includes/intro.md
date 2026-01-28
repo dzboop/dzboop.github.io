@@ -1,5 +1,5 @@
 From September 2016 to June 2020, I studied at [Wuhan University](https://www.whu.edu.cn/) and obtained a bachelor's degree in engineering.
-From September 2020, I will study for a doctorate degree at the [National University of Defense Technology](https://english.nudt.edu.cn/), ChangSha. I was supervised by Zhu En and [Xinwang Liu (刘新旺)](https://xinwangliu.github.io/).
+From September 2020, I will study for a doctorate degree at the [National University of Defense Technology](https://english.nudt.edu.cn/), ChangSha. I was supervised by Zhu En and [Xinwang Liu (刘新旺)](https://xinwangliu.github.io/). Since 2026, I have been working at the School of Computer Science, National University of Defense Technology, as an assistant researcher.
 
 
 I am now working on ***Multi-modal Data Analysis***, ***Scalable Unsupervised Learning*** and ***graph learning***. I have published 20+ papers at the top international AI conferences and journals, such as NeurIPS, ICML, ICLR, CVPR, ICCV, AAAI and IEEE TIP, TKDE, TNNLS. I also serve as reviewer for top conferences, including ICLR, NeurIPS, ICML, CVPR, ICCV, AAAI and ACM MM.
