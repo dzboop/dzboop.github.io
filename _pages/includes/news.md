@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 Two paper is accepted in [ACM MM26](CCF-A). 
 - *2026.05*: &nbsp;🎉🎉 One paper is accepted in ICML26(CCF-A).
 - *2026.03*: &nbsp;🎉🎉 One paper is accepted in [CVPR26](https://cvpr.thecvf.com/)(CCF-A). 
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted in IEEE TKDE(CCF-A).
